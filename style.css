@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    font-family: 'Besley', serif;
+}
+.color{
+    color: orange;
+} 
+.width-50{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width-50 img{
+    width: 100%;
+}
